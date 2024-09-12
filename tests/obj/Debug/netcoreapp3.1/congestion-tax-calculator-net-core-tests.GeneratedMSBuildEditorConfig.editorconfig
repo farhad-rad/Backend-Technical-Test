@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Congestion.Calculator.Tests
+build_property.ProjectDir = d:\Apps\Xampp\htdocs\FintranetAssessment\Backend Technical Test\tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
